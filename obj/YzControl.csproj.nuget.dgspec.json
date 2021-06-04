@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wangpangzhe/VSCodeProjects/YzControl/YzControl.csproj": {}
+    "/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/YzControl.csproj": {}
   },
   "projects": {
-    "/Users/wangpangzhe/VSCodeProjects/YzControl/YzControl.csproj": {
+    "/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/YzControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wangpangzhe/VSCodeProjects/YzControl/YzControl.csproj",
+        "projectUniqueName": "/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/YzControl.csproj",
         "projectName": "YzControl",
-        "projectPath": "/Users/wangpangzhe/VSCodeProjects/YzControl/YzControl.csproj",
+        "projectPath": "/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/YzControl.csproj",
         "packagesPath": "/Users/wangpangzhe/.nuget/packages/",
-        "outputPath": "/Users/wangpangzhe/VSCodeProjects/YzControl/obj/",
+        "outputPath": "/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wangpangzhe/.nuget/NuGet/NuGet.Config"

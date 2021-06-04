@@ -1,0 +1,15 @@
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/bin/Debug/net5.0/YzControl.deps.json
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/bin/Debug/net5.0/YzControl.runtimeconfig.json
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/bin/Debug/net5.0/YzControl.runtimeconfig.dev.json
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/bin/Debug/net5.0/YzControl.dll
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/bin/Debug/net5.0/ref/YzControl.dll
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/bin/Debug/net5.0/YzControl.pdb
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.csproj.AssemblyReference.cache
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.AssemblyInfoInputs.cache
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.AssemblyInfo.cs
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.csproj.CoreCompileInputs.cache
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.dll
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/ref/YzControl.dll
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.pdb
+/Users/wangpangzhe/VSCodeProjects/c#Projects/YzControl/obj/Debug/net5.0/YzControl.genruntimeconfig.cache
